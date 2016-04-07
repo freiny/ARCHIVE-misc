@@ -3,9 +3,9 @@ layout: post
 title: "An Introduction"
 date: 2016-04-07
 ---
-###I suppose as with all things, we need an introduction.
+### I suppose as with all things, we need an introduction.
 
-####As Context is so important ...
+#### As Context is so important ...
 
 <pre>
 Casio -> TI-81 -> TI-82 -> TI-83 ->
